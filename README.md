@@ -16,3 +16,4 @@ Smash the "Go Live" button
 # Support
 
 Hit me up on Discord if you need any support :)
+If you need any support you can message me on [Discord Server](https://pages.github.com/).
