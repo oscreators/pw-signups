@@ -1,9 +1,9 @@
 # pw-signups
 Collection of signup pages showcases many useful controls
-Example 
+# Example 
 /login-1 - Password Visibility Button
 
-Usage
+# Usage
 
 To run the project:
 
@@ -13,6 +13,6 @@ Install VS Code LiveServer Plugin
 
 Smash the "Go Live" button
 
-Support
+# Support
 
 Hit me up on Discord if you need any support :)
