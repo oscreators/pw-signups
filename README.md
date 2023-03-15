@@ -14,6 +14,5 @@ Install VS Code LiveServer Plugin
 Smash the "Go Live" button
 
 # Support
-
-Hit me up on Discord if you need any support :)
-If you need any support you can message me on [Discord Server](https://pages.github.com/).
+If You Need [ Youtube Video ] (https://youtube.com/playlist?list=PLsi_twzeQSKTvWo8SI0qaZ8gtn_qZ_jZ1)Guidliness
+If you need any support you can message me on [Discord Server](https://discord.gg/D4D6RKsVp6).
